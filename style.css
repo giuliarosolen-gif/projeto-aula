@@ -7,3 +7,7 @@ header{
 main { background-color: rgb(122, 122, 184);
 color: black;
 text-align: center; }
+img {
+width: 80px;
+height: 80px;
+}
